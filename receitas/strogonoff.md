@@ -17,6 +17,8 @@
 
 ### Modo de preparo
 
+* OBS: não esquecer de checar o gás antes de começar
+
 1. Pique a cebola e o alho
 2. Aqueça uma panela com um fio de óleo, coloque a cebola e alho para dourar. Assim que dourar, coloque a carne e um pouco de sal. Deixe a carne fritando até o fundo da panela ficar "pegado"
 3. Quando a carne tiver cozida, coloque o molho de tomate, azeitona e champgnon e misture. Deixe aquecendo até começar a ferver
